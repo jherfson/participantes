@@ -1,5 +1,4 @@
 # PARTICIPANTES DO HACKTOBERFEST 2018
-
 - Lucas de Souza Vieira
 - Marcos 'Tarski'
 - Matheus de Sousa Barros
@@ -10,3 +9,4 @@
 - Atmos Maciel
 - AC Rabelo
 - Jorge Luis L. Amorim
+- Henry Jr
