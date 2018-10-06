@@ -3,3 +3,4 @@
 - Lucas de Souza Vieira
 - Marcos 'Tarski'
 - Nanderson Castro
+- Evaldo Barbosa
