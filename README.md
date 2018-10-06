@@ -4,3 +4,4 @@
 - Marcos 'Tarski'
 - Nanderson Castro
 - Evaldo Barbosa
+- Atmos Maciel
