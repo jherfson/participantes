@@ -8,4 +8,5 @@
 - Nanderson Castro
 - Evaldo Barbosa
 - Atmos Maciel
+- AC Rabelo
 - Jorge Luis L. Amorim
