@@ -9,4 +9,5 @@
 - Atmos Maciel
 - AC Rabelo
 - Jorge Luis L. Amorim
+- Weked A. Curvel
 - Henry Jr
