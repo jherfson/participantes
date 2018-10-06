@@ -2,3 +2,4 @@
 
 Lucas de Souza Vieira
 Marcos 'Tarski'
+Weked A. Curvel
