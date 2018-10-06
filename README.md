@@ -8,3 +8,4 @@
 - Nanderson Castro
 - Evaldo Barbosa
 - Atmos Maciel
+- Weked A. Curvel
